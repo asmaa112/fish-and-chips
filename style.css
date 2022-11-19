@@ -1,0 +1,114 @@
+
+body{
+    background-image: url(fond.png);
+}
+nav ul li{
+display: inline;
+margin: 10px;
+}
+.logo{
+    margin-left: 570px;
+}
+nav{
+background-color: #25B3B4;
+border: 3px solid #2B9AA0;
+height: 4.2cm;
+}
+.divtoday{
+    background-color: #B6DEDC;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul{
+    text-align: center;
+    margin: 0;
+}
+.divwelcome{
+    width: 50%;
+    margin: auto;
+
+}
+.h1divwelcome{
+font-size: 2.5em;
+margin-top: 40px;
+margin-left: 95px;
+}
+.pdivwelcome{
+   text-align: center;
+   word-spacing: 2px
+}
+.divtoday{
+    width: 600px;
+    float: left;
+    padding: 35px;
+    margin-left: 150px;
+}
+.divnews{
+    background-color: #34B1B2;
+    width: 220px;
+    border: 5px solid #2B9AA0;
+    float: right;
+    margin-right: 230px;
+    padding: 15px;
+    position: relative;
+    
+}
+.vignette{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: -30px;
+    top: -60px;
+}
+.divtodayetnews{
+    width: 100%;
+    margin: auto;
+  background-color: black;
+    height: 90%;
+}
+.recipe{
+    border-radius: 50%;
+    float: left;
+   
+}
+.divcrusty{
+    float: left;
+    width: 290px;
+    height: 600px;}
+.divmulti{
+    float: right;
+    width: 290px;
+   
+}
+button{
+    width: 120px;
+    height: 35px;
+    color: white;
+    background-color: #2B9AA0;
+    border: none;
+    float: right;
+}
+.divnews h4{
+    color: #B6DEDC;
+    margin-bottom: 50x;
+}
+.divnews p{
+    color: #D0EEEE  ;
+}
+.akhir{
+    width: 45px;
+    height: 45px;
+    margin-top: 200px;
+    margin-right: 300px;
+}
+.divtoday h2,p{
+    color: #444A54;
+}
+.divwelcome p,h1{
+    color: #444A54;
+}
+.divtoday h1{
+    margin-left: 190px;
+}
